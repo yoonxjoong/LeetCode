@@ -14,7 +14,7 @@ class Solution:
 
         sum_val = 0
         if grandParent and grandParent.val % 2 == 0:
-            sum_val += root.val
+            sum_val = root.val
         
         # print(root.val, parent, grandParent)
         sum_val += self.tempNode(root.left, root, parent)
