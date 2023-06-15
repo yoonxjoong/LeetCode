@@ -1,8 +1,12 @@
 class Solution:
     def arithmeticTriplets(self, nums: List[int], diff: int) -> int:
-        combinations = list(itertools.combinations(nums, 3))
+        num_count = Counter(nums)
         count = 0
-        for combination in combinations:
-            if combination[2] - combination[1] == diff and combination[1] - combination[0] == diff:
-                count += 1
+
+        for num in num_count:
+            if num - diff in num_count:
+                if num - diff - diff in num_count:
+                    print(num, num-diff, num-diff-diff)
+                    count += 1
+
         return count
