@@ -27,6 +27,6 @@ class Solution {
             stack.push(s.charAt(i));
         }
 
-        return stack.isEmpty() == true;
+        return stack.isEmpty();
     }
 }
