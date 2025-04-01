@@ -79,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yoonxjoong/LeetCode/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yoonxjoong/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yoonxjoong/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
