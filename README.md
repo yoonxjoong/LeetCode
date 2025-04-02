@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/yoonxjoong/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/yoonxjoong/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yoonxjoong/LeetCode/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/yoonxjoong/LeetCode/tree/master/0792-binary-search) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yoonxjoong/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Union Find
 |  |
@@ -106,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yoonxjoong/LeetCode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/yoonxjoong/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
