@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yoonxjoong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/yoonxjoong/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/yoonxjoong/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/yoonxjoong/LeetCode/tree/master/0463-island-perimeter) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yoonxjoong/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yoonxjoong/LeetCode/tree/master/0383-ransom-note) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yoonxjoong/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/yoonxjoong/LeetCode/tree/master/0383-ransom-note) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yoonxjoong/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yoonxjoong/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
@@ -121,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yoonxjoong/LeetCode/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
