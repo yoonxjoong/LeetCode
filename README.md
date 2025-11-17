@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/yoonxjoong/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/yoonxjoong/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/yoonxjoong/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yoonxjoong/LeetCode/tree/master/0733-flood-fill) |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -132,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yoonxjoong/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
