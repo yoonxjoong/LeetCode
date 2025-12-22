@@ -154,5 +154,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/yoonxjoong/LeetCode/tree/master/0175-combine-two-tables) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yoonxjoong/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
