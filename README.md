@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/yoonxjoong/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/yoonxjoong/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/yoonxjoong/LeetCode/tree/master/0792-binary-search) |
+| [0973-k-closest-points-to-origin](https://github.com/yoonxjoong/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yoonxjoong/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Union Find
 |  |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yoonxjoong/LeetCode/tree/master/0070-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/yoonxjoong/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yoonxjoong/LeetCode/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/yoonxjoong/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/yoonxjoong/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -162,4 +166,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/yoonxjoong/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/yoonxjoong/LeetCode/tree/master/0176-second-highest-salary) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yoonxjoong/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yoonxjoong/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yoonxjoong/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yoonxjoong/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
