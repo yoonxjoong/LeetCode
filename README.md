@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yoonxjoong/LeetCode/tree/master/0015-3sum) |
 | [0057-insert-interval](https://github.com/yoonxjoong/LeetCode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yoonxjoong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yoonxjoong/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/yoonxjoong/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yoonxjoong/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/yoonxjoong/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yoonxjoong/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/yoonxjoong/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yoonxjoong/LeetCode/tree/master/0242-valid-anagram) |
 | [0973-k-closest-points-to-origin](https://github.com/yoonxjoong/LeetCode/tree/master/0973-k-closest-points-to-origin) |
