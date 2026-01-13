@@ -1,15 +1,23 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> hashMap = new HashMap<Integer, Integer>();
-        for(int i=0; i<nums.length; i++){
-            int complement = target - nums[i];
-            if(hashMap.containsKey(complement)){
-                return new int[]{hashMap.get(complement), i};
+
+        HashMap<Integer, Integer> hm = new HashMap<>();
+
+        for(int i = 0; i < nums.length; i++) {
+            int index = i;
+            int value = nums[i];
+
+            int subtraction = target - value;
+
+            boolean exist = hm.containsKey(subtraction);
+
+            if(exist) {
+                return new int[] { i, hm.get(subtraction), };
             }
-            hashMap.put(nums[i], i);  // Store the current number and its index in the HashMap.
+
+            hm.put(value, index);
         }
 
-        throw new IllegalArgumentException("No two sum solution");
-
+        return new int[] {};
     }
 }
