@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yoonxjoong/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/yoonxjoong/LeetCode/tree/master/0015-3sum) |
 | [0057-insert-interval](https://github.com/yoonxjoong/LeetCode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yoonxjoong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yoonxjoong/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yoonxjoong/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/yoonxjoong/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/yoonxjoong/LeetCode/tree/master/0141-linked-list-cycle) |
