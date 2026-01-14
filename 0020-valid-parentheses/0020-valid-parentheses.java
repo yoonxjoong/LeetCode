@@ -1,32 +1,36 @@
 class Solution {
-    public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
+     public boolean isValid(String s) {
         HashMap<Character, Character> hm = new HashMap<>();
+
         hm.put('(', ')');
         hm.put('[', ']');
         hm.put('{', '}');
 
-        for(int i = 0; i < s.length(); i++) {
-            // 스택에 아무것도 없을 경우
+        Stack<Character> stack = new Stack<>();
+
+        for(int i= 0; i < s.length(); i++) {
             if(stack.isEmpty()) {
                 stack.push(s.charAt(i));
                 continue;
             }
 
             char tmp = stack.peek();
+            char current = s.charAt(i);
 
-            if(!hm.containsKey(tmp)) {
-                continue;
+            boolean exist = hm.containsKey(tmp);
+
+            if(exist) {
+                char a = hm.get(tmp);
+                
+                if(a == current) {
+                    stack.pop();
+                }else{
+                    stack.push(current);
+                }
             }
 
-            if (s.charAt(i) == hm.get(tmp)) {
-                stack.pop();
-                continue;
-            }
-
-            stack.push(s.charAt(i));
         }
 
-        return stack.isEmpty();
+        return stack.size() < 1;
     }
 }
