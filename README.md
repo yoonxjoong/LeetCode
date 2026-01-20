@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/yoonxjoong/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/yoonxjoong/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/yoonxjoong/LeetCode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/yoonxjoong/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yoonxjoong/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/yoonxjoong/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/yoonxjoong/LeetCode/tree/master/0792-binary-search) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yoonxjoong/LeetCode/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/yoonxjoong/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/yoonxjoong/LeetCode/tree/master/0792-binary-search) |
 ## Interactive
 |  |
