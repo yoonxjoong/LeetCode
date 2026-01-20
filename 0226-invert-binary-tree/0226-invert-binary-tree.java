@@ -1,25 +1,14 @@
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        Stack<TreeNode> stack = new Stack<>();
-        stack.push(root);
 
-        while(!stack.isEmpty()) {
-            TreeNode currentNode = stack.pop();
-
-            if(currentNode == null) {
-                continue;
-            }
-
-            TreeNode left = currentNode.left;
-            TreeNode right = currentNode.right;
-
-            currentNode.left = right;
-            currentNode.right = left;
-
-            stack.push(left);
-            stack.push(right);
-
+        if(root == null) {
+            return null;
         }
+
+        TreeNode leftNode = invertTree(root.left);
+        TreeNode rightNode = invertTree(root.right);
+        root.left = rightNode;
+        root.right = leftNode;
 
         return root;
     }
