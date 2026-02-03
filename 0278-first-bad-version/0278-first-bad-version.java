@@ -1,22 +1,33 @@
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
-        // 1, 2, 3, 4, 5
-        // 1, 2, 3, 4, 5, 6
-        int start = 1;
-        int end = n;
-        int mid = 0;
+        int n1 = 1;
+        int n2 = n;
+        int diff = n;
 
-        while (start < end) {
-            mid = start + ((end - start) >> 1);
-
-            if (isBadVersion(mid)) {
-                end = mid;
-            } else {
-                start = mid + 1;
+        while(n2 - n1 > 1) {
+            diff = (n2 - n1) / 2 + n1;
+            boolean badVersion = isBadVersion(diff);
+            System.out.println("verions : " + badVersion + ", n1 : "+ n1 +", n2 :" + n2 + ", diff :"  + diff);
+            if(!badVersion) {
+                n1 = diff;
+            } else{
+                n2 = diff;
             }
-
         }
 
-        return start;
+        if(n2 - n1 == 1) {
+            boolean badVersion1 = isBadVersion(n1);
+            boolean badVersion2 = isBadVersion(n2);
+
+            if(badVersion1){
+                return n1;
+            }
+
+            if(badVersion2) {
+                return n2;
+            }
+        }
+
+        return diff;
     }
 }
