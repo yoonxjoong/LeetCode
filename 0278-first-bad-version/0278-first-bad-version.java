@@ -7,7 +7,7 @@ public class Solution extends VersionControl {
         while(n2 - n1 > 1) {
             diff = (n2 - n1) / 2 + n1;
             boolean badVersion = isBadVersion(diff);
-            System.out.println("verions : " + badVersion + ", n1 : "+ n1 +", n2 :" + n2 + ", diff :"  + diff);
+        
             if(!badVersion) {
                 n1 = diff;
             } else{
