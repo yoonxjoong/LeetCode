@@ -10,7 +10,7 @@ class Solution {
             fast = fast.next;
             size++;
         }
-        System.out.println(size);
+    
         int size2 = 0;
 
         while(slow.next != null) {
