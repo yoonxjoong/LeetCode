@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yoonxjoong/LeetCode/tree/master/0067-add-binary) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yoonxjoong/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yoonxjoong/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yoonxjoong/LeetCode/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/yoonxjoong/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yoonxjoong/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/yoonxjoong/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/yoonxjoong/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/yoonxjoong/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yoonxjoong/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yoonxjoong/LeetCode/tree/master/0383-ransom-note) |
@@ -224,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/yoonxjoong/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/yoonxjoong/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
