@@ -1,15 +1,31 @@
 class Solution {
-
     public ListNode reverseList(ListNode head) {
-        if (head == null || head.next == null) {
+        // The node value insert the queue.
+        Stack<ListNode> stack = new Stack<>();
+
+        ListNode ret = new ListNode();
+        ListNode retCurr = ret;
+
+        if(head == null) {
             return head;
         }
 
-        ListNode newHead = reverseList(head.next);
-        head.next.next = head;
+        ListNode curr = head;
+        stack.add(curr);
+        while(curr.next != null) {
+            curr = curr.next;
+            stack.add(curr);
+        }
 
-        head.next= null;
+        while(!stack.isEmpty()) {
+            ListNode tmp = stack.pop();
+            tmp.next = null;
+            ret.next = tmp;
+            ret = ret.next;
+        }
 
-        return newHead;
+
+        return retCurr.next;
+
     }
 }
